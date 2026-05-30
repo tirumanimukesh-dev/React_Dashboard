@@ -22,4 +22,11 @@ Explore the live demo of React Admin Dashboard [react-dashboard-tawny-one.vercel
 
 1. Clone the repository: `git clone https://github.com/tirumanimukesh-dev/React_Dashboard.git`
 2. Install dependencies: `npm install` or `yarn install`
-3. Start the development server: `npm run dev` or `yarn dev`
+3. Start the development server: `npm run dev` or `yarn dev`   
+
+## Project Links
+
+| Resource | Link |
+|-----------|------|
+| GitHub Repository | https://github.com/tirumanimukesh-dev/React_Dashboard |
+| Live Demo | https://react-dashboard-tawny-one.vercel.app/ |
